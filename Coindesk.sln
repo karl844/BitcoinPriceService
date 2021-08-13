@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coindesk", "Coindesk\Coindesk.csproj", "{1EC07B84-C022-4F49-8445-E840A0AB27BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coindesk.Services", "Coindesk.Services\Coindesk.Services.csproj", "{FC3BAF3A-3BF8-4FD0-B7B2-22BC1B64D29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC07B84-C022-4F49-8445-E840A0AB27BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC07B84-C022-4F49-8445-E840A0AB27BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC07B84-C022-4F49-8445-E840A0AB27BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC07B84-C022-4F49-8445-E840A0AB27BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3BAF3A-3BF8-4FD0-B7B2-22BC1B64D29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3BAF3A-3BF8-4FD0-B7B2-22BC1B64D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3BAF3A-3BF8-4FD0-B7B2-22BC1B64D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3BAF3A-3BF8-4FD0-B7B2-22BC1B64D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1587543C-12AF-42C5-9F27-1E426331DB5D}
+	EndGlobalSection
+EndGlobal
